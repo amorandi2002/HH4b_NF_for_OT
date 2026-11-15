@@ -1,0 +1,14 @@
+__pycache__/
+presentation/
+*.pyc
+logs/
+data_loader_2b4b.py
+main_2b4b.py
+model_2b4b.py
+*.err
+*.dag
+*.log
+*.out
+*.sub
+*.cc
+*.sh
